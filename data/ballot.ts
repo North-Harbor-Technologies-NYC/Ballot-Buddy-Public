@@ -326,7 +326,7 @@ export const PUBLISHER = {
 export const TEMPLATE_CREDIT = {
   text: "Built from the Ballot Buddy template",
   by: "North Harbor Technologies",
-  url: "https://github.com/North-Harbor-Technologies/Ballot-Buddy",
+  url: "https://github.com/North-Harbor-Technologies-NYC/Ballot-Buddy-Public",
 };
 
 export const PDF_PAGE_HEIGHT = 1368;
